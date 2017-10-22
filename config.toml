@@ -1,4 +1,0 @@
-baseURL = "https://github.com/ottemo/developer.ottemo.io.git"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-theme-learn"
