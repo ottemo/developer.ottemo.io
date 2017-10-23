@@ -1,0 +1,4 @@
+baseURL = "http://developer.ottemo.io/"
+languageCode = "en-us"
+title = "Ottemo Developer Documentation"
+theme = "hugo-theme-learn"
