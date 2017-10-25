@@ -1,7 +1,7 @@
 # developer.ottemo.io
 
 
-### to clone repo and setup locally
+### Clone repo and setup locally
 
 ```bash
 # install hugo
