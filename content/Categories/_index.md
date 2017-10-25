@@ -1,6 +1,6 @@
 +++
-title = "Overview"
-weight  = 1
+title = "Categories"
+weight = 5
 creatordisplayname = "James  Vastbinder"
 creatoremail = "james@ottemo.io"
 lastmodifierdisplayname = "James Vastbinder"
