@@ -14,7 +14,7 @@ themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (defau
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -28,8 +28,8 @@ url = "https://github.com/ottemo/developer.ottemo.io"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-code'></i> Swagger"
-url = "/swagger"
+name = "<i class='fa fa-code'></i> API Documentation"
+url = "https://swaggerhub.com/apis/Ottemo/foundation/1"
 weight = 11
 
 
