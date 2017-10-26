@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ottemo Developer Documentation</title>
+    <title>Developer Documentation</title>
     <link>/</link>
-    <description>Recent content on Ottemo Developer Documentation</description>
+    <description>Recent content on Developer Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Oct 2017 14:47:14 -0700</lastBuildDate>
