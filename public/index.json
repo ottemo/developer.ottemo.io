@@ -95,7 +95,14 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": " Ottemo Devleoper Basics "
+	"content": " Ottemo Developer Basics "
+},
+{
+	"uri": "/_header/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/categories/",
@@ -103,13 +110,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "/swagger/",
-	"title": "Foundation  Documentation",
-	"tags": [],
-	"description": "",
-	"content": "iframe{width:100%}   iFrameResize({ log : true, checkOrigin : false, sizeWidth : true, widthCalculationMethod : 'rightMostElement' }); var shortcode_url = \"\\/\\/swagger.json\";  "
 },
 {
 	"uri": "/tags/",
