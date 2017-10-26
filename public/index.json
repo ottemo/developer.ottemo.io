@@ -1,20 +1,118 @@
 [
 {
-	"uri": "https://developer.ottemo.io/",
+	"uri": "/configuration/general/",
+	"title": "General Settings",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 "
+},
+{
+	"uri": "/overview/",
+	"title": "Overview",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/installation/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": " Needed Downloads Setup Information Docker Basics "
+},
+{
+	"uri": "/configuration/payment/",
+	"title": "Payment",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/configuration/",
+	"title": "Site Configuration",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/configuration/tax/",
+	"title": "Tax",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/cms/",
+	"title": "CMS",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/configuration/shipping/",
+	"title": "Shipping",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/products/",
+	"title": "Products",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/discounts/",
+	"title": "Discounts",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/rewrites/",
+	"title": "URL Rewrites",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Discover Ottemo\n"
+},
+{
+	"uri": "/impex/",
+	"title": "IMPEX",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 "
+},
+{
+	"uri": "/",
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Ottemo Devleoper Basics "
 },
 {
-	"uri": "https://developer.ottemo.io/categories/",
+	"uri": "/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://developer.ottemo.io/tags/",
+	"uri": "/swagger/",
+	"title": "Foundation  Documentation",
+	"tags": [],
+	"description": "",
+	"content": "iframe{width:100%}   iFrameResize({ log : true, checkOrigin : false, sizeWidth : true, widthCalculationMethod : 'rightMostElement' }); var shortcode_url = \"\\/\\/swagger.json\";  "
+},
+{
+	"uri": "/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

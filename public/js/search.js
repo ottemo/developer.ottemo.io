@@ -84,6 +84,7 @@ $( document ).ready(function() {
         },
         /* onSelect callback fires when a search suggestion is chosen */
         onSelect: function(e, term, item) {
+            console.log(item.getAttribute('data-val'));
             location.href = item.getAttribute('data-uri');
         }
     });

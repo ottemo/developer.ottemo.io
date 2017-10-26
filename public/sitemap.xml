@@ -3,16 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://developer.ottemo.io/</loc>
+    <loc>/configuration/general/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://developer.ottemo.io/categories/</loc>
+    <loc>/overview/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/installation/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/configuration/payment/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/configuration/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/configuration/tax/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cms/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/configuration/shipping/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/products/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/discounts/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rewrites/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/impex/</loc>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-10-24T14:47:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://developer.ottemo.io/tags/</loc>
+    <loc>/swagger/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
