@@ -25,3 +25,23 @@ hugo server
 ```
 
 Then browse to your [localhost](http://127.0.0.1:1313)
+
+## Deploy to Firebase
+
+### configure firebase connection
+
+```
+# install firebase tools
+npm install -g firebase-tools
+
+# authenticate to firebase using your ottemo creds
+firebase login
+```
+
+### push local changes to firebase
+
+Only do this if your PR is accepted and reviewed, please. This command pushes your changes to production.
+
+```
+hugo && firebase deploy
+```
