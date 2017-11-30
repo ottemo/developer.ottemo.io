@@ -21,5 +21,7 @@ git submodule update --recursive
 
 ```bash
 # run with the current theme chosen
-hugo serve --theme=docdock
+hugo server
 ```
+
+Then browse to your [localhost](http://127.0.0.1:1313)
