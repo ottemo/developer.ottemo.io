@@ -7,6 +7,7 @@ lastmodifieremail = "james@ottemo.io"
 date =  "2017-10-24T14:47:14-07:00"
 +++
 
+<img src="/images/richkids.png" alt="Example Site" height=300px>
 # Developing with Ottemo
 
 Ottemo is a commerce solution born out of the desire to have a fast flexible
