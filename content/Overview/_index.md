@@ -32,7 +32,7 @@ on the AngularJS framework, this offloads process execution to the client’s si
 significantly reduces the load to the server host(s) allowing extremely efficient use of server resources,
 increases throughput and increases the effective performance of the experience.
 
-Ottemo also supports the following databases:
+Ottemo supports the following databases:
 
 1. Sqlite
 2. Mongodb

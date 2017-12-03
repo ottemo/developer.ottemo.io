@@ -12,7 +12,7 @@ date =  "2017-01-12"
 
 Ottemo is a commerce solution born out of the desire to have a fast flexible
 stack to speed development. The foundation server is an elegant monolith written
-in golang provding a REST api which developers may use to build client
+in golang providing a REST api which developers may use to build client
 applications for commerce.
 
 Ottemo provides Foundation server binaries and reference stores written in AngularJS,
