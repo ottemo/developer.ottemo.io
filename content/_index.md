@@ -16,13 +16,15 @@ in golang providing a REST api which developers may use to build client
 applications for commerce.
 
 Ottemo provides Foundation server binaries and reference stores written in AngularJS,
-but any technology that may communicate to a REST backend may be used. As the server
+but any frontend technology that can communicate to a REST backend may be used. As the server
 is written in golang, it is hyper efficient regarding resources and even supports
 sqlite as a database. Support for mysql and mongodb is also included.  Foundation
 may be run on any hardware supported by golang including ARM.
 
-To start developing a commerce site with Ottemo, you should be comfortable with a
-frontend technology using javascript or php and talking to a REST api passing json.
+To start developing a commerce solution with Ottemo, you should be comfortable with a
+frontend technology like javascript, php or swift and talking to a REST api passing json. As
+Foundation server is agnostic regarding the frontend, even mobile applications can be built using
+Ottemo.
 
 In production, Ottemo deploys docker containers to Kubernetes and sessions are stored
 in Redis. Developers will also need a way to send out transactional emails, Sendgrid
