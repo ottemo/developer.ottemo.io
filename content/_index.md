@@ -4,11 +4,11 @@ creatordisplayname = "James  Vastbinder"
 creatoremail = "james@ottemo.io"
 lastmodifierdisplayname = "James Vastbinder"
 lastmodifieremail = "james@ottemo.io"
-date =  "2017-10-24T14:47:14-07:00"
+date =  "2017-01-12"
 +++
 
-<img src="/images/richkids.png" alt="Example Site" height=300px>
 # Developing with Ottemo
+<img src="/images/richkids.png" alt="Example Site" height=300px>
 
 Ottemo is a commerce solution born out of the desire to have a fast flexible
 stack to speed development. The foundation server is an elegant monolith written
