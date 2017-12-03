@@ -20,7 +20,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-github'></i> Github repo"
+name = "<i class='fa fa-github'></i> Github repos"
 identifier = "ds"
 url = "https://github.com/ottemo"
 weight = 10
