@@ -13,7 +13,7 @@ language. The platform provides merchants with the high performance they need wi
 sacrificing architectural capabilities developers need.  Ottemo is intended to be customized
 and extended at the component level to suite each retailer’s specific needs.
 
-<img src="/images/OverviewOfOttemo.jpg" alt="Overview of Ottemo" height=380px>
+<img src="/images/OttemoStackDiagram.jpg" alt="Overview of Ottemo" height=540px>
 
 Currently there are 3 services which make up the Ottemo stack:
 
